@@ -1,0 +1,5 @@
+2024-02-20 21:39:55 INFO ====== WebDriver manager ======
+2024-02-20 21:39:55 INFO Get LATEST chromedriver version for google-chrome
+2024-02-20 21:39:56 INFO Get LATEST chromedriver version for google-chrome
+2024-02-20 21:39:56 INFO Driver [C:\Users\vsobo\.wdm\drivers\chromedriver\win64\121.0.6167.184\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-20 21:39:57 INFO Test with invalid values starting

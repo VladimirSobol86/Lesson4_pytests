@@ -1,0 +1,6 @@
+login: "testuser-3"
+password: "e699891d29"
+url: "https://test-stand.gb.ru/api/posts"
+post_title: "new_post"
+post_description: "Description for new post"
+post_content: "Content of new post"

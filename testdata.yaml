@@ -1,0 +1,9 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 3
+login: "testuser-3"
+password: "e699891d29"
+name: "Vladimir"
+email: "vsobol2@yandex.ru"
+content: "I can't authorize on your site"
+alert: "Form successfully submitted"
